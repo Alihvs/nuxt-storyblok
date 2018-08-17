@@ -1,9 +1,9 @@
-<template>
+git chekout <template>
   <section class="container">
     <div>
       <logo/>
       <h1 class="title">
-        nuxt-storyblok
+        nuxt
       </h1>
       <h2 class="subtitle">
         My outstanding Nuxt.js project
