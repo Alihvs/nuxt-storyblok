@@ -18,6 +18,9 @@ export default {
 
 
 <style>
+body {
+  margin: 0;
+}
 html {
   font-family: 'Lato', sans-serif;
   font-size: 16px;

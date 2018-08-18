@@ -45,6 +45,7 @@ a {
   width: 90%;
   margin: auto;
   height: 20rem;
+  margin: 1rem;
 }
 .post-preview-thumbnail {
   background-position: center;
@@ -59,7 +60,6 @@ a {
 @media (min-width: 35rem) {
   .post-preview {
     width: 25rem;
-    margin: 1rem;
   }
 }
 </style>
